@@ -1,2 +1,12 @@
-# NeuroSymbolic-ImageQA
-This is a federated Neuro-Symbolic pipeline developed for accomplishing tasks about Image QA. We implement the dense captioning and reverse image searching function of the model using Langchain library from Python.
+# jarvis-cognitive-architecture
+
+**AnhPhu Nyugen**, **Yutong Wu**, **Alina Yu**, **Madison Davis**,
+
+## Preprocressing (Yutong)
+Taking a bunch of raw data from CV/NLP captions into a structure of reliable, understandable summary. 
+
+## Tools
+* Long Term Memory (AnhPhu)
+* ChatGPT (Yutong)
+* Google Search (AnhPhu)
+* Visualization
